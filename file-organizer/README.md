@@ -69,7 +69,7 @@ node file-organizer.js organize /source --output /target
 - Videos
 - Other
 
-✔️ Підтримує:
+Підтримує:
 - великі файли через streams
 - уникнення конфліктів імен
 
